@@ -1,0 +1,39 @@
+/*CSS - Form */
+input[type=text], input[type=email], select {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit], input[type=reset], input[type=button]{
+    width: 30%;
+    background-color: #4CAF50;
+    color: #ffffff;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+
+/* CSS untuk Tabel pada tampil data */
+
+table, tr, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+
+}
+
+table{
+    width: 80%;
+}
+
+th{
+    background-color: #4CAF50;
+    color: #ffffff;
+}
