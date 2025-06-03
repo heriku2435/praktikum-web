@@ -117,7 +117,7 @@
         </div>
     </div>
 
-    <script src="js/valid.js"></script>
+    <script src="valid.js"></script>
     
 </body>
 </html>
